@@ -2,7 +2,7 @@
 
 $ apt update && apt upgrade
 $ apt install git python2
-$ git clone https://github.com/MohammadRipon10/FIC.git
+$ git clone https://github.com/MohammadRipon10/FIC
 $ cd FIC
 
 # [ Setup ]
