@@ -14,6 +14,6 @@ $ pip2 install -r requirements.txt
 $ python2 fic.py
 
 # [ N.B ]
-* [Help] If you are confused how to use it, please type 'help' to display the help menu.
+* [Help] If you are confused how to use it, please type "help" to display the help.
 * [Warn] Please turn off your VPN before using this program !!!
 * [Tips] Do not overuse this program !!!
