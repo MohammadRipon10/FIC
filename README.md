@@ -1,4 +1,4 @@
-#[ Installation ]
+# [ Installation ]
 
 $ apt update && apt upgrade
 $ apt install git python2
