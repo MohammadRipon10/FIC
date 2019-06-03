@@ -1,18 +1,24 @@
 # [ Installation ]
 
- * $ apt update && apt upgrade
- * $ apt install git python2
- * $ git clone https://github.com/MohammadRipon10/FIC
- * $ cd FIC
+ $ apt update && apt upgrade
+ ```
+ $ pkg update && upgrade
+ ```
+ $ pkg install git python2
+ ```
+ $ git clone https://github.com/MohammadRipon10/FIC.git
+ ```
+ $ cd FIC
+ ```
 
 # [ Setup ]
 
- * $ pip2 install -r requirements.txt
-
+ $ pip2 install -r requirements.txt
+ ```
 # [ Running ]
 
- * $ python2 fic.py
-
+ $ python2 fic.py
+ ```
 # [ N.B ]
  * [Help] If you are confused how to use it, please type "help" to display the help.
  * [Warn] Please turn off your VPN before using this program !!!
