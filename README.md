@@ -11,10 +11,12 @@
  $ cd FIC
 
 # [ Setup ]
+
  ```
  $ pip2 install -r requirements.txt
 
 # [ Running ]
+
  ```
  $ python2 fic.py
 
